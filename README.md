@@ -2,6 +2,7 @@
 
 This repository contains links to other techniques and projects including time series, image models, dimensionality reduction, web-scraping, record linkage etc.
 
+[SQL Projects](https://github.com/Auckland68/SQLProjects)
 
 [Time Series and Forecasting](https://github.com/Auckland68/TimeSeriesModelling)
 
