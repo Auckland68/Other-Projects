@@ -10,4 +10,6 @@ This repository contains links to other techniques and projects including time s
 
 [Dimensionality Reduction](https://github.com/Auckland68/DimensionalityReduction)
 
+[Statistical Modelling Process](https://github.com/Auckland68/StatisticalModellingProcessNotebooks)
+
 [Other Techniques](https://github.com/Auckland68/Other-Techniques)
