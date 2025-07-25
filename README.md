@@ -12,4 +12,6 @@ This repository contains links to other techniques and projects including time s
 
 [Statistical Modelling Process](https://github.com/Auckland68/StatisticalModellingProcessNotebooks)
 
+[Plotly](https://github.com/Auckland68/PlotlyNotebooks)
+
 [Other Techniques](https://github.com/Auckland68/Other-Techniques)
