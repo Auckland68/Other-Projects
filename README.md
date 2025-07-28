@@ -19,6 +19,4 @@ This repository contains links to other techniques and projects including time s
 
 [Other Techniques](https://github.com/Auckland68/Other-Techniques)
 
-[Data Analysis Bootcamp Projects]
-
-[Code First Girls Data and SQL Bootcamp]
+[Bootcamp Projects](https://github.com/Auckland68/Bootcamp-Projects/blob/main/README.md)
